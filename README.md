@@ -1,2 +1,2 @@
 # LiskovSubstitution
- LiskovSubstitution Principle Example
+ Liskov Substitution Principle Example
